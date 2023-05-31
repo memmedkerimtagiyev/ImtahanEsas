@@ -46,15 +46,6 @@
       "comment": " 02 Comments"
     },
     {
-      "img": "http://localhost:3000/posts/",
-      "date": "02.10,2003",
-      "title": "Memmedkerim Tagiyev",
-      "text": "lorem",
-      "like": "",
-      "comment": "",
-      "id": 9
-    },
-    {
       "img": "https://preview.colorlib.com/theme/blogger/img/f3.jpg",
       "date": "edgfarsd",
       "title": "frgserfgvas",
@@ -71,6 +62,15 @@
       "like": "bdbryhrnyte45utynr5yu",
       "comment": " n5tuyn  yu5 6ymur5u me5",
       "id": 12
+    },
+    {
+      "img": "rgs",
+      "date": "vfzdfsf",
+      "title": "fsdsdf",
+      "text": "fds",
+      "like": "ff",
+      "comment": "sds",
+      "id": 13
     }
   ]
 }

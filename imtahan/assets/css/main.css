@@ -389,7 +389,7 @@ header .head-content .container .markWines .user-date .user-meta h4 {
   margin: 30px 10px;
 }
 #fashionNews .container .fashionCarts .foto {
-  transform: 0.5s;
+  transition: 0.5s;
 }
 #fashionNews .container .fashionCarts .foto:hover {
   transform: scale(1.1);

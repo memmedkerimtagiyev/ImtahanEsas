@@ -206,7 +206,7 @@
         margin: 30px 10px;
       }
       .foto {
-        transform: 0.5s;
+        transition: 0.5s;
         &:hover {
           transform: scale(1.1);
         }

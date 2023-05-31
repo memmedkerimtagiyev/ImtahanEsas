@@ -1,0 +1,338 @@
+#latesNews {
+  padding: 100px 0;
+  background-color: white;
+  .container {
+    .menu-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+
+      h1 {
+        font-size: 36px;
+        margin-bottom: 20px;
+      }
+
+      p {
+        color: #777;
+        font-family: "Poppins", sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 1.625em;
+      }
+    }
+
+    .lates-carts {
+      padding: 100px 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+
+      .lates-cart {
+        img {
+          transition: 0.5s;
+          width: 100%;
+          &:hover {
+            transform: scale(1.1);
+          }
+        }
+
+        .date {
+          background-color: #000;
+          color: #fff;
+          font-size: 15px;
+          font-weight: 100;
+          padding: 2px 15px;
+          width: 115px;
+          text-align: center;
+          margin-top: 20px;
+        }
+
+        h4 {
+          font-size: 18px;
+          margin-top: 15px;
+
+          a {
+            color: #222;
+          }
+        }
+      }
+    }
+  }
+}
+
+#TravelSection {
+  background: #f9f9ff;
+  padding: 120px 0;
+
+  .container {
+    .titleText {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      h1 {
+        font-size: 36px;
+      }
+
+      p {
+        color: #777;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 1.625em;
+        max-width: 700px;
+        width: 100%;
+        text-align: center;
+      }
+    }
+
+    .travelCarts {
+      padding: 100px 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+
+      .cart {
+        max-width: 550px;
+        display: flex;
+        gap: 15px;
+        margin-bottom: 30px;
+
+        .dates {
+          background: #222;
+          color: #fff;
+          padding: 18px 24px;
+          position: absolute;
+        }
+
+        img {
+          transition: 0.5s;
+
+          &:hover {
+            transform: scale(1.1);
+          }
+        }
+
+        .medya-body {
+          h4 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 12px;
+
+            a {
+              color: #222;
+            }
+          }
+
+          p {
+            color: #777;
+            font-size: 14px;
+            font-weight: 300;
+            line-height: 1.625em;
+            margin-bottom: 12px;
+          }
+
+          .medya-bottom {
+            display: flex;
+            justify-content: space-between;
+          }
+        }
+      }
+    }
+
+    .button {
+      display: flex;
+      justify-content: center;
+
+      .load-more {
+        padding-left: 30px;
+        padding-right: 30px;
+        border: 1px solid transparent;
+        line-height: 42px;
+        border-radius: 25px;
+        color: white;
+        font-weight: 500;
+        transition: all 0.3s ease 0s;
+        cursor: pointer;
+        text-transform: uppercase;
+        background-image: -webkit-linear-gradient(
+          45deg,
+          #62bdfc 0%,
+          #8490ff 100%
+        );
+
+        &:hover {
+          color: #007bff;
+          background-color: white;
+          background-image: none;
+          border: 1px solid #007bff !important;
+        }
+      }
+    }
+  }
+}
+
+#fashionNews {
+  padding: 100px 0;
+
+  .container {
+    .titleText {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      h1 {
+        font-size: 36px;
+      }
+
+      p {
+        color: #777;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 1.625em;
+        max-width: 700px;
+        width: 100%;
+        text-align: center;
+      }
+    }
+
+    .fashionCarts {
+      padding: 100px 0;
+      display: flex;
+      flex-wrap: wrap;
+
+      .fashionCart {
+        max-width: 266px;
+        margin: 30px 10px;
+      }
+      .foto {
+        transform: 0.5s;
+        &:hover {
+          transform: scale(1.1);
+        }
+      }
+      .fashion-date {
+        margin: 12px 0;
+        background-color: #000;
+        color: #fff;
+        font-size: 14px;
+        font-weight: 100;
+        padding: 2px 15px;
+        width: 115px;
+        text-align: center;
+        margin-top: 20px;
+      }
+
+      .fashion-head {
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 18px;
+
+        &:hover {
+          color: #007bff;
+        }
+
+        .fashion-head-a {
+          transition: all 0.3s ease 0s;
+          color: black;
+        }
+      }
+
+      .fashion-text {
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 1.625em;
+        color: #777;
+        margin-bottom: 12px;
+      }
+      .fashion-like-commit {
+        display: flex;
+        justify-content: space-between;
+        .text {
+          font-size: 14px;
+          font-weight: 300;
+          line-height: 1.625em;
+          color: #777;
+        }
+      }
+      .deleteCart {
+        width: 100%;
+      }
+    }
+
+    .button {
+      display: flex;
+      justify-content: center;
+
+      .load-more {
+        padding-left: 30px;
+        padding-right: 30px;
+        border: 1px solid transparent;
+        line-height: 42px;
+        border-radius: 25px;
+        color: white;
+        font-weight: 500;
+        transition: all 0.3s ease 0s;
+        cursor: pointer;
+        text-transform: uppercase;
+        background-image: -webkit-linear-gradient(
+          45deg,
+          #62bdfc 0%,
+          #8490ff 100%
+        );
+
+        &:hover {
+          color: #007bff;
+          background-color: white;
+          background-image: none;
+          border: 1px solid #007bff !important;
+        }
+      }
+    }
+  }
+}
+#form {
+  margin-left: 30px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+
+  input {
+    width: 400px;
+    height: 30px;
+  }
+  button {
+    width: 100px;
+    height: 50px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #latesNews {
+    .container {
+      .lates-carts {
+        flex-direction: column !important;
+        align-items: center;
+        gap: 30px;
+      }
+    }
+  }
+  #TravelSection {
+    .container {
+      .travelCarts {
+        flex-direction: column !important;
+        align-items: center;
+      }
+    }
+  }
+  #fashionNews {
+    .container {
+      .fashionCarts {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "img": "https://preview.colorlib.com/theme/blogger/img/f1.jpg",
+      "title": "Addiction When Gambling Becomes A Problem",
+      "date": "10 Jan 2018",
+      "text": "inappropriate behavior ipsum dolor sit amet, consectetur.",
+      "like": " 15 Likes",
+      "comment": " 02 Comments"
+    },
+    {
+      "id": 2,
+      "img": "https://preview.colorlib.com/theme/blogger/img/f2.jpg",
+      "title": "Addiction When Gambling Becomes A Problem",
+      "date": "10 Jan 2018",
+      "text": "inappropriate behavior ipsum dolor sit amet, consectetur.",
+      "like": " 15 Likes",
+      "comment": " 02 Comments"
+    },
+    {
+      "id": 3,
+      "img": "https://preview.colorlib.com/theme/blogger/img/f3.jpg",
+      "title": "Addiction When Gambling Becomes A Problem",
+      "date": "10 Jan 2018",
+      "text": "inappropriate behavior ipsum dolor sit amet, consectetur.",
+      "like": " 15 Likes",
+      "comment": " 02 Comments"
+    },
+    {
+      "id": 4,
+      "img": "https://preview.colorlib.com/theme/blogger/img/f4.jpg",
+      "title": "Addiction When Gambling Becomes A Problem",
+      "date": "10 Jan 2018",
+      "text": "inappropriate behavior ipsum dolor sit amet, consectetur.",
+      "like": " 15 Likes",
+      "comment": " 02 Comments"
+    },
+    {
+      "id": 5,
+      "img": "https://preview.colorlib.com/theme/blogger/img/f1.jpg",
+      "title": "Addiction When Gambling Becomes A Problem",
+      "date": "10 Jan 2018",
+      "text": "inappropriate behavior ipsum dolor sit amet, consectetur.",
+      "like": " 15 Likes",
+      "comment": " 02 Comments"
+    },
+    {
+      "img": "http://localhost:3000/posts/",
+      "date": "02.10,2003",
+      "title": "Memmedkerim Tagiyev",
+      "text": "lorem",
+      "like": "",
+      "comment": "",
+      "id": 9
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/blogger/img/f3.jpg",
+      "date": "edgfarsd",
+      "title": "frgserfgvas",
+      "text": "rfgarsgtsaet eh",
+      "like": "bdbryhrnyte45utynr5yu",
+      "comment": " n5tuyn  yu5 6ymur5u me5",
+      "id": 11
+    },
+    {
+      "img": "https://preview.colorlib.com/theme/blogger/img/f3.jpg",
+      "date": "edgfarsd",
+      "title": "frgserfgvas",
+      "text": "rfgarsgtsaet eh",
+      "like": "bdbryhrnyte45utynr5yu",
+      "comment": " n5tuyn  yu5 6ymur5u me5",
+      "id": 12
+    }
+  ]
+}
